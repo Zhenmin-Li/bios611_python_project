@@ -1,6 +1,7 @@
 # Sentiment Analysis of Trump's Tweets with API
 
-First you have to fill your API key in the "key.csv", in the space numbered 1-4 
+First you have to fill your API key in the "key.csv", in the space numbered 1-4
+If you don't have one, see here <https://developer.twitter.com/en/apply-for-access> 
 
 To run the environment (replace your_password with your password):
 
